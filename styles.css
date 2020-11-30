@@ -14,7 +14,7 @@ body {
     margin: auto;
     border-radius: 50%;
     background-color: rgb(233, 118, 82);
-    animation: bounce 3.3s infinite;
+    animation: bounce 3s infinite;
 }
 
 .shadow {
@@ -25,7 +25,7 @@ body {
     position: fixed;
     top: 90%;
     left: 50%;
-    animation: darkness 3.2s infinite;
+    animation: darkness 3s infinite;
 }
 
 @keyframes bounce {
